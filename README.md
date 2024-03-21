@@ -12,13 +12,13 @@ iLogger will initially ask for your login, in which case you can either choose t
 
 Once you have a directory full of CSV's you can go into the stats folder and find LogsToCSV.py, which will compile all of your logs thus far, and create multiple informational maps for each device you have tracked thus far. An interesting feature of this which I reused from Triangular-inator was it's ability to download all logs from a remote server. This way you can download your logs on the go.
 
-![Image1](Image1.png)
+![Image1](/images/image1.png)
 
-![Image4](Image4.png)
+![Image4](/images/image4.png)
 
-![Image2](Image2.png)
+![Image2](/images/image2.png)
 
-![Image3](Image3.png)
+![Image3](/images/image3.png)
 
 
 ### Take a look at our constants.py file:
